@@ -6,3 +6,4 @@ import numpy as  np
 identity_matrixx =np.eye(5)
 
 print(identity_matrixx)
+print(identity_matrixx.ndim)
