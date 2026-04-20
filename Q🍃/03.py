@@ -10,11 +10,16 @@ Matplotlib se ek simple line chart banao jo `sin(x)` aur `cos(x)` dono ko ek hi 
 import matplotlib.pyplot as plt
 import numpy as np
 
-sinx=np.linspace(2,100,5)
-cosx=np.linspace(3,100,5)
+sinx=np.linspace(0,10,100)
+cosx=np.linspace(2,20,200)
 
 
-plt.plot(sinx,cosx,color="blue")
-plt.xlabel(sinx)
-plt.ylabel(cosx)
+plt.plot(sinx,color="blue",label="sinx")
+plt.plot(cosx,color="red",label="cosx")
+
+plt.xlabel("sinx")
+plt.ylabel("cosx")
+plt.legend("top left")
+plt.title("sin cos table")
+
 plt.show()
