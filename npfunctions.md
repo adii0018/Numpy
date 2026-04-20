@@ -13,6 +13,7 @@ np.random.rand(2,2)      # Random values (0 to 1)
 np.random.randint(1,10)  # Random integer between 1 and 10
 ```
 
+
 ---
 
 ## 🔹 2. Mathematical Functions
