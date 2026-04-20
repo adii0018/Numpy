@@ -19,7 +19,7 @@
 ### Q1 — NumPy: Even Numbers Statistics
 Ek NumPy array banao jisme 1 se 100 tak ke sirf even numbers hon. Phir unka mean, median aur std nikalo.
 
-**Libraries:** `numpy`  
+**Libraries:** `numpy`
 **Hint:** `np.arange()` use karo range ke liye, phir fancy indexing ya filter lagao. `np.mean()`, `np.median()`, `np.std()` use karo.
 
 ---
