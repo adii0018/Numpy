@@ -14,12 +14,13 @@ sinx=np.linspace(0,10,100)
 cosx=np.linspace(2,20,200)
 
 
-plt.plot(sinx,color="blue",label="sinx")
-plt.plot(cosx,color="red",label="cosx")
+plt.plot(sinx,color="blue",label="sinx",marker="^",linestyle=":")
+plt.plot(cosx,color="red",label="cosx",marker="o",linestyle=":")
 
 plt.xlabel("sinx")
 plt.ylabel("cosx")
 plt.legend("top left")
 plt.title("sin cos table")
-
+plt.grid()
+plt.tight_layout
 plt.show()
