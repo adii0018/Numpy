@@ -40,6 +40,7 @@ plt.ylabel("Marks")
 plt.show()
 
 # 📌 Histogram (All Marks Distribution)
+
 plt.figure()
 plt.hist(marks.flatten(), bins=10)
 plt.title("Marks Distribution")
