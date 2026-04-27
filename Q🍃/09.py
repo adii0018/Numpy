@@ -22,6 +22,7 @@ print("Lowest Marks:", min_marks)
 # Step 3: Visualization
 
 # 📌 Bar Graph (Average Marks)
+
 plt.figure()
 plt.bar(students, avg_marks)
 plt.xticks(rotation=45)
