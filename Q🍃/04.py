@@ -4,6 +4,7 @@ Ek 5x5 random integer matrix banao (0–50 range). Phir diagonal elements nikalo
 **Libraries:** `numpy`  
 **Hint:** `np.random.randint()` se matrix, `np.diag()` se diagonal elements, `.sum()` se total.
 '''
+
 import numpy as np 
 
 # 5x5 random integer matrix (0–50 range)
