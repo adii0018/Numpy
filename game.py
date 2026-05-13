@@ -26,6 +26,8 @@ velocity = 0
 gravity = 0.5
 jump = -8
 
+print("hy")
+
 # Pipes
 pipe_width = 60
 gap = 150
