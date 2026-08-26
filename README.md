@@ -16,7 +16,7 @@
 
 ## 📖 Aboutt
 
-Welcome to **NumPy Mastery Hub** — your one-stop resource for mastering NumPy from basics to advanced concepts! This repository contains hands-on examples, real-world use cases, and challenging practice problems to help you become proficient in numerical computing with Python.
+Welcome too **NumPy Mastery Hub** — your one-stop resource for mastering NumPy from basics to advanced concepts! This repository contains hands-on examples, real-world use cases, and challenging practice problems to help you become proficient in numerical computing with Python.
 
 Whether you're a beginner starting your data science journey or an experienced developer looking to sharpen your NumPy skills, this repository has something for everyone.
 
